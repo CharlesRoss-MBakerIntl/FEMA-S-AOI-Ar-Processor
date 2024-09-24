@@ -1,0 +1,565 @@
+;(function (){
+          treedata = (window.treedata || {});
+          treedata.data["root_1491"]  = {  
+              "parent" : "",
+              "children" : ["1491_16","1491_21","1491_63","1491_h0","1491_h1","1491_h2","1491_h4","1491_h5","1491_h6","1491_h7","1491_h8","1491_h10","1491_h11","1491_h12","1491_h13","1491_h14","1491_h15","1491_h16","1491_h17","1491_h19"]
+            },
+treedata.data["1491_16"]  = {
+            "parent" : "root_1491",
+            "label" : "An overview of the Conversion toolbox",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-conversion-toolbox.htm"
+            
+          },
+treedata.data["1491_21"]  = {
+            "parent" : "root_1491",
+            "label" : "Conversion toolbox licensing",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/conversion-toolbox-license.htm"
+            
+          },
+treedata.data["1491_63"]  = {
+            "parent" : "root_1491",
+            "label" : "Conversion toolbox history",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/conversion-toolbox-history-pro.htm"
+            
+          },
+treedata.data["1491_h0"]  = { 
+              "parent" : "root_1491",
+              "label" : "Excel toolset",
+              "children" : ["1491_10","1491_12","1491_36"]
+            }
+            ,
+treedata.data["1491_10"]  = {
+            "parent" : "1491_h0",
+            "label" : "An overview of the Excel toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-excel-toolset.htm"
+            
+          },
+treedata.data["1491_12"]  = {
+            "parent" : "1491_h0",
+            "label" : "Excel To Table",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/excel-to-table.htm"
+            
+          },
+treedata.data["1491_36"]  = {
+            "parent" : "1491_h0",
+            "label" : "Table To Excel",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/table-to-excel.htm"
+            
+          },
+treedata.data["1491_h1"]  = { 
+              "parent" : "root_1491",
+              "label" : "From PDF toolset",
+              "children" : ["1491_93","1491_94"]
+            }
+            ,
+treedata.data["1491_93"]  = {
+            "parent" : "1491_h1",
+            "label" : "An overview of the From PDF toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-from-pdf-toolset.htm"
+            
+          },
+treedata.data["1491_94"]  = {
+            "parent" : "1491_h1",
+            "label" : "PDF To TIFF",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/pdf-to-tiff.htm"
+            
+          },
+treedata.data["1491_h2"]  = { 
+              "parent" : "root_1491",
+              "label" : "From Raster toolset",
+              "children" : ["1491_27","1491_14","1491_45","1491_28","1491_25","1491_35","1491_h3"]
+            }
+            ,
+treedata.data["1491_27"]  = {
+            "parent" : "1491_h2",
+            "label" : "An overview of the From Raster toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-from-raster-toolset.htm"
+            
+          },
+treedata.data["1491_14"]  = {
+            "parent" : "1491_h2",
+            "label" : "Raster to ASCII",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/raster-to-ascii.htm"
+            
+          },
+treedata.data["1491_45"]  = {
+            "parent" : "1491_h2",
+            "label" : "Raster to Float",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/raster-to-float.htm"
+            
+          },
+treedata.data["1491_28"]  = {
+            "parent" : "1491_h2",
+            "label" : "Raster to Point",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/raster-to-point.htm"
+            
+          },
+treedata.data["1491_25"]  = {
+            "parent" : "1491_h2",
+            "label" : "Raster to Polygon",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/raster-to-polygon.htm"
+            
+          },
+treedata.data["1491_35"]  = {
+            "parent" : "1491_h2",
+            "label" : "Raster to Polyline",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/raster-to-polyline.htm"
+            
+          },
+treedata.data["1491_h3"]  = { 
+              "parent" : "1491_h2",
+              "label" : "From Raster toolset concepts",
+              "children" : ["1491_51"]
+            }
+            ,
+treedata.data["1491_51"]  = {
+            "parent" : "1491_h3",
+            "label" : "About converting from raster data",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/about-converting-from-raster-data.htm"
+            
+          },
+treedata.data["1491_h4"]  = { 
+              "parent" : "root_1491",
+              "label" : "From WFS toolset",
+              "children" : ["1491_47","1491_49"]
+            }
+            ,
+treedata.data["1491_47"]  = {
+            "parent" : "1491_h4",
+            "label" : "An overview of the From WFS toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-from-wfs-toolset.htm"
+            
+          },
+treedata.data["1491_49"]  = {
+            "parent" : "1491_h4",
+            "label" : "WFS To Feature Class",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/wfs-to-feature-class.htm"
+            
+          },
+treedata.data["1491_h5"]  = { 
+              "parent" : "root_1491",
+              "label" : "GPS toolset",
+              "children" : ["1491_26","1491_85","1491_19"]
+            }
+            ,
+treedata.data["1491_26"]  = {
+            "parent" : "1491_h5",
+            "label" : "An overview of the GPS toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-from-gps-toolset.htm"
+            
+          },
+treedata.data["1491_85"]  = {
+            "parent" : "1491_h5",
+            "label" : "Features To GPX",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/features-to-gpx.htm"
+            
+          },
+treedata.data["1491_19"]  = {
+            "parent" : "1491_h5",
+            "label" : "GPX To Features",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/gpx-to-features.htm"
+            
+          },
+treedata.data["1491_h6"]  = { 
+              "parent" : "root_1491",
+              "label" : "Graphics toolset",
+              "children" : ["1491_91","1491_90","1491_92"]
+            }
+            ,
+treedata.data["1491_91"]  = {
+            "parent" : "1491_h6",
+            "label" : "An overview of the Graphics toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-graphics-toolset.htm"
+            
+          },
+treedata.data["1491_90"]  = {
+            "parent" : "1491_h6",
+            "label" : "Features To Graphics",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/features-to-graphics.htm"
+            
+          },
+treedata.data["1491_92"]  = {
+            "parent" : "1491_h6",
+            "label" : "Graphics To Features",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/graphics-to-features.htm"
+            
+          },
+treedata.data["1491_h7"]  = { 
+              "parent" : "root_1491",
+              "label" : "JSON toolset",
+              "children" : ["1491_23","1491_24","1491_40"]
+            }
+            ,
+treedata.data["1491_23"]  = {
+            "parent" : "1491_h7",
+            "label" : "An overview of the JSON toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-json-toolset.htm"
+            
+          },
+treedata.data["1491_24"]  = {
+            "parent" : "1491_h7",
+            "label" : "Features To JSON",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/features-to-json.htm"
+            
+          },
+treedata.data["1491_40"]  = {
+            "parent" : "1491_h7",
+            "label" : "JSON To Features",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/json-to-features.htm"
+            
+          },
+treedata.data["1491_h8"]  = { 
+              "parent" : "root_1491",
+              "label" : "KML toolset",
+              "children" : ["1491_58","1491_57","1491_59","1491_86","1491_h9"]
+            }
+            ,
+treedata.data["1491_58"]  = {
+            "parent" : "1491_h8",
+            "label" : "An overview of the KML toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-kml-toolset.htm"
+            
+          },
+treedata.data["1491_57"]  = {
+            "parent" : "1491_h8",
+            "label" : "KML To Layer",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/kml-to-layer.htm"
+            
+          },
+treedata.data["1491_59"]  = {
+            "parent" : "1491_h8",
+            "label" : "Layer To KML",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/layer-to-kml.htm"
+            
+          },
+treedata.data["1491_86"]  = {
+            "parent" : "1491_h8",
+            "label" : "Map To KML",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/map-to-kml.htm"
+            
+          },
+treedata.data["1491_h9"]  = { 
+              "parent" : "1491_h8",
+              "label" : "KML toolset concepts",
+              "children" : ["1491_61"]
+            }
+            ,
+treedata.data["1491_61"]  = {
+            "parent" : "1491_h9",
+            "label" : "KML conversion",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/kml-conversion.htm"
+            
+          },
+treedata.data["1491_h10"]  = { 
+              "parent" : "root_1491",
+              "label" : "Point Cloud",
+              "children" : ["1491_78","1491_77","1491_50","1491_95"]
+            }
+            ,
+treedata.data["1491_78"]  = {
+            "parent" : "1491_h10",
+            "label" : "An overview of the Point Cloud toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-point-cloud-toolset.htm"
+            
+          },
+treedata.data["1491_77"]  = {
+            "parent" : "1491_h10",
+            "label" : "Convert LAS",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/convert-las.htm"
+            
+          },
+treedata.data["1491_50"]  = {
+            "parent" : "1491_h10",
+            "label" : "LAS Dataset To Raster",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/las-dataset-to-raster.htm"
+            
+          },
+treedata.data["1491_95"]  = {
+            "parent" : "1491_h10",
+            "label" : "Point Cloud To Raster",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/point-cloud-to-raster.htm"
+            
+          },
+treedata.data["1491_h11"]  = { 
+              "parent" : "root_1491",
+              "label" : "SAS toolset",
+              "children" : ["1491_89","1491_88","1491_87"]
+            }
+            ,
+treedata.data["1491_89"]  = {
+            "parent" : "1491_h11",
+            "label" : "An overview of the SAS toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-sas-toolset.htm"
+            
+          },
+treedata.data["1491_88"]  = {
+            "parent" : "1491_h11",
+            "label" : "SAS To Table",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/sas-to-table.htm"
+            
+          },
+treedata.data["1491_87"]  = {
+            "parent" : "1491_h11",
+            "label" : "Table To SAS",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/table-to-sas.htm"
+            
+          },
+treedata.data["1491_h12"]  = { 
+              "parent" : "root_1491",
+              "label" : "To CAD toolset",
+              "children" : ["1491_65","1491_66","1491_64"]
+            }
+            ,
+treedata.data["1491_65"]  = {
+            "parent" : "1491_h12",
+            "label" : "An overview of the To CAD toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-to-cad-toolset.htm"
+            
+          },
+treedata.data["1491_66"]  = {
+            "parent" : "1491_h12",
+            "label" : "Add CAD Fields",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/add-cad-fields.htm"
+            
+          },
+treedata.data["1491_64"]  = {
+            "parent" : "1491_h12",
+            "label" : "Export to CAD",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/export-to-cad.htm"
+            
+          },
+treedata.data["1491_h13"]  = { 
+              "parent" : "root_1491",
+              "label" : "To Collada toolset",
+              "children" : ["1491_43","1491_8"]
+            }
+            ,
+treedata.data["1491_43"]  = {
+            "parent" : "1491_h13",
+            "label" : "An overview of the To Collada toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-to-collada-toolset.htm"
+            
+          },
+treedata.data["1491_8"]  = {
+            "parent" : "1491_h13",
+            "label" : "Multipatch To COLLADA",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/multipatch-to-collada.htm"
+            
+          },
+treedata.data["1491_h14"]  = { 
+              "parent" : "root_1491",
+              "label" : "To dBASE toolset",
+              "children" : ["1491_18","1491_39"]
+            }
+            ,
+treedata.data["1491_18"]  = {
+            "parent" : "1491_h14",
+            "label" : "An overview of the To dBASE toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-to-dbase-toolset.htm"
+            
+          },
+treedata.data["1491_39"]  = {
+            "parent" : "1491_h14",
+            "label" : "Table To dBASE",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/table-to-dbase.htm"
+            
+          },
+treedata.data["1491_h15"]  = { 
+              "parent" : "root_1491",
+              "label" : "To Geodatabase toolset",
+              "children" : ["1491_33","1491_82","1491_67","1491_96","1491_97","1491_99","1491_75","1491_76","1491_37","1491_81","1491_44","1491_13"]
+            }
+            ,
+treedata.data["1491_33"]  = {
+            "parent" : "1491_h15",
+            "label" : "An overview of the To Geodatabase toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-to-geodatabase-toolset.htm"
+            
+          },
+treedata.data["1491_82"]  = {
+            "parent" : "1491_h15",
+            "label" : "BIM File To Geodatabase",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/bimfile-to-geodatabase.htm"
+            
+          },
+treedata.data["1491_67"]  = {
+            "parent" : "1491_h15",
+            "label" : "CAD To Geodatabase",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/cad-to-geodatabase.htm"
+            
+          },
+treedata.data["1491_96"]  = {
+            "parent" : "1491_h15",
+            "label" : "Export Features",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/export-features.htm"
+            
+          },
+treedata.data["1491_97"]  = {
+            "parent" : "1491_h15",
+            "label" : "Export Table",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/export-table.htm"
+            
+          },
+treedata.data["1491_99"]  = {
+            "parent" : "1491_h15",
+            "label" : "Extract BIM File Floorplan",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/extract-bim-file-floorplan.htm"
+            
+          },
+treedata.data["1491_75"]  = {
+            "parent" : "1491_h15",
+            "label" : "Extract Locations From Document",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/extract-locations-from-document.htm"
+            
+          },
+treedata.data["1491_76"]  = {
+            "parent" : "1491_h15",
+            "label" : "Extract Locations From Text",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/extract-locations-from-text.htm"
+            
+          },
+treedata.data["1491_37"]  = {
+            "parent" : "1491_h15",
+            "label" : "Feature Class To Geodatabase",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/feature-class-to-geodatabase.htm"
+            
+          },
+treedata.data["1491_81"]  = {
+            "parent" : "1491_h15",
+            "label" : "Mobile Geodatabase To File Geodatabase",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/mobile-geodatabase-to-file-geodatabase.htm"
+            
+          },
+treedata.data["1491_44"]  = {
+            "parent" : "1491_h15",
+            "label" : "Raster To Geodatabase",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/raster-to-geodatabase-multiple-.htm"
+            
+          },
+treedata.data["1491_13"]  = {
+            "parent" : "1491_h15",
+            "label" : "Table To Geodatabase",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/table-to-geodatabase.htm"
+            
+          },
+treedata.data["1491_h16"]  = { 
+              "parent" : "root_1491",
+              "label" : "To GeoPackage toolset",
+              "children" : ["1491_69","1491_68"]
+            }
+            ,
+treedata.data["1491_69"]  = {
+            "parent" : "1491_h16",
+            "label" : "An overview of the To GeoPackage toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-to-geopackage-toolset.htm"
+            
+          },
+treedata.data["1491_68"]  = {
+            "parent" : "1491_h16",
+            "label" : "Add Raster to GeoPackage",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/add-raster-to-geopackage.htm"
+            
+          },
+treedata.data["1491_h17"]  = { 
+              "parent" : "root_1491",
+              "label" : "To Raster toolset",
+              "children" : ["1491_22","1491_30","1491_4","1491_6","1491_41","1491_38","1491_52","1491_h18"]
+            }
+            ,
+treedata.data["1491_22"]  = {
+            "parent" : "1491_h17",
+            "label" : "An overview of the To Raster toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-to-raster-toolset.htm"
+            
+          },
+treedata.data["1491_30"]  = {
+            "parent" : "1491_h17",
+            "label" : "Feature to Raster",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/feature-to-raster.htm"
+            
+          },
+treedata.data["1491_4"]  = {
+            "parent" : "1491_h17",
+            "label" : "Multipatch to Raster",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/multipatch-to-raster.htm"
+            
+          },
+treedata.data["1491_6"]  = {
+            "parent" : "1491_h17",
+            "label" : "Point to Raster",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/point-to-raster.htm"
+            
+          },
+treedata.data["1491_41"]  = {
+            "parent" : "1491_h17",
+            "label" : "Polygon to Raster",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/polygon-to-raster.htm"
+            
+          },
+treedata.data["1491_38"]  = {
+            "parent" : "1491_h17",
+            "label" : "Polyline to Raster",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/polyline-to-raster.htm"
+            
+          },
+treedata.data["1491_52"]  = {
+            "parent" : "1491_h17",
+            "label" : "Raster To Other Format",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/raster-to-other-format-multiple-.htm"
+            
+          },
+treedata.data["1491_h18"]  = { 
+              "parent" : "1491_h17",
+              "label" : "To Raster toolset concepts",
+              "children" : ["1491_29","1491_20","1491_11","1491_9","1491_2"]
+            }
+            ,
+treedata.data["1491_29"]  = {
+            "parent" : "1491_h18",
+            "label" : "Converting features to raster data",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/converting-features-to-raster-data.htm"
+            
+          },
+treedata.data["1491_20"]  = {
+            "parent" : "1491_h18",
+            "label" : "Boundary rules followed when converting features to a raster",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/boundary-rules-followed-when-converting-features-to-a-raster.htm"
+            
+          },
+treedata.data["1491_11"]  = {
+            "parent" : "1491_h18",
+            "label" : "How Point to Raster works",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/how-point-to-raster-works.htm"
+            
+          },
+treedata.data["1491_9"]  = {
+            "parent" : "1491_h18",
+            "label" : "How Polygon To Raster works",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/how-polygon-to-raster-works.htm"
+            
+          },
+treedata.data["1491_2"]  = {
+            "parent" : "1491_h18",
+            "label" : "How Polyline to Raster works",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/how-polyline-to-raster-works.htm"
+            
+          },
+treedata.data["1491_h19"]  = { 
+              "parent" : "root_1491",
+              "label" : "To Shapefile toolset",
+              "children" : ["1491_17","1491_48"]
+            }
+            ,
+treedata.data["1491_17"]  = {
+            "parent" : "1491_h19",
+            "label" : "An overview of the To Shapefile toolset",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/an-overview-of-the-to-shapefile-toolset.htm"
+            
+          },
+treedata.data["1491_48"]  = {
+            "parent" : "1491_h19",
+            "label" : "Feature Class To Shapefile",
+            "url" : "/en/pro-app/3.3/tool-reference/conversion/feature-class-to-shapefile.htm"
+            
+          }
+        })()
